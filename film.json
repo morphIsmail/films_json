@@ -1,0 +1,487 @@
+[{
+   "original_name": "The Lion King",
+   "russian_name": "Король лев",
+   "year": "1994",
+   "actors": "Мэттью Бродерик"
+}, {
+   "russian_name": "Незнайка на луне",
+   "year": "1997",
+   "original_name": "Незнайка на луне",
+   "actors": "Венера Рахимова, Кристина Орбакайте"
+}, {
+   "russian_name": "Зверополис",
+   "year": "2016",
+   "original_name": "Zootopia",
+   "actors": "Джиннифер Гудвин"
+}, {
+   "russian_name": "Кунг-фу Панда",
+   "year": "2008",
+   "original_name": "Kung Fu Panda",
+   "actors": "Джек Блэк"
+}, {
+   "russian_name": "Кунг-фу Панда: Секреты неистовой пятерки",
+   "year": "2008",
+   "original_name": "Kung Fu Panda: Secrets of the Furious Five",
+   "actors": "Джек Блэк"
+}, {
+   "russian_name": "Кунг-фу Панда: Праздничный выпуск",
+   "year": "2010",
+   "original_name": "Kung Fu Panda Holiday",
+   "actors": "Джек Блэк"
+}, {
+   "russian_name": "Кунг-Фу Панда: Секреты мастеров",
+   "year": "2011",
+   "original_name": "Kung Fu Panda: Secrets of the Masters",
+   "actors": "Джек Блэк"
+}, {
+   "russian_name": "Кунг-фу Панда 2",
+   "year": "2011",
+   "original_name": "Kung Fu Panda 2",
+   "actors": "Джек Блэк"
+}, {
+   "russian_name": "Кунг-Фу Панда: Загадки свитка",
+   "year": "2016",
+   "original_name": "Kung Fu Panda: Secrets of the Scroll",
+   "actors": "Джек Блэк"
+}, {
+   "russian_name": "Кунг-фу Панда 3",
+   "year": "2016",
+   "original_name": "Kung Fu Panda 3",
+   "actors": "Джек Блэк"
+}, {
+   "russian_name": "Мадагаскар",
+   "year": "2005",
+   "original_name": "Madagascar",
+   "actors": "Бен Стиллер, Крис Рок, Саша Барон Коэн"
+}, {
+   "russian_name": "Мадагаскар 2",
+   "year": "2008",
+   "original_name": "Madagascar: Escape 2 Africa",
+   "actors": "Бен Стиллер, Крис Рок, Саша Барон Коэн"
+}, {
+   "russian_name": "Мадагаскар 3",
+   "year": "2012",
+   "original_name": "Madagascar 3: Europe's Most Wanted",
+   "actors": "Бен Стиллер, Крис Рок, Саша Барон Коэн"
+}, {
+   "russian_name": "Ледниковый период",
+   "year": "2002",
+   "original_name": "Ice Age",
+   "actors": "Рэй Романо, Джек Блэк"
+}, {
+   "russian_name": "Ледниковый период 2: Глобальное потепление",
+   "year": "2006",
+   "original_name": "Ice Age: The Meltdown",
+   "actors": "Рэй Романо"
+}, {
+   "russian_name": "Ледниковый период 3: Эра динозавров",
+   "year": "2009",
+   "original_name": "Ice Age: Dawn of the Dinosaurs",
+   "actors": "Рэй Романо"
+}, {
+   "russian_name": "Ледниковый период 4: Континентальный дрейф",
+   "year": "2012",
+   "original_name": "Ice Age: Continental Drift",
+   "actors": "Рэй Романо"
+}, {
+   "russian_name": "Ледниковый период: Столкновение неизбежно",
+   "year": "2016",
+   "original_name": "Ice Age: Collision Course",
+   "actors": "Рэй Романо, Джон Легуизамо"
+}, {
+   "russian_name": "Шрэк",
+   "year": "2001",
+   "original_name": "Shrek",
+   "actors": "Майк Майерс, Кэмерон Диаз"
+}, {
+   "russian_name": "Шрэк 2",
+   "year": "2004",
+   "original_name": "Shrek 2",
+   "actors": "Майк Майерс, Кэмерон Диаз"
+}, {
+   "russian_name": "Шрэк Третий",
+   "year": "2007",
+   "original_name": "Shrek the Third",
+   "actors": "Майк Майерс, Кэмерон Диаз"
+}, {
+   "russian_name": "Шрек: Хэллоуин",
+   "year": "2010",
+   "original_name": "Scared Shrekless",
+   "actors": "Майк Майерс, Кэмерон Диаз"
+}, {
+   "russian_name": "Шрэк навсегда",
+   "year": "2010",
+   "original_name": "Shrek Forever After",
+   "actors": "Майк Майерс, Кэмерон Диаз"
+}, {
+   "russian_name": "Полный расколбас",
+   "year": "2016",
+   "original_name": "Sausage Party",
+   "actors": "Сет Роген, Джеймс Франко, Джона Хилл"
+}, {
+   "russian_name": "Рок Дог",
+   "year": "2016",
+   "original_name": "Rock Dog",
+   "actors": "Люк Уилсон, Эдди Иззард"
+}, {
+   "russian_name": "Тачки",
+   "year": "2006",
+   "original_name": "Cars",
+   "actors": "Оуэн Уилсон, Пол Ньюман"
+}, {
+   "russian_name": "Тачки 2",
+   "year": "2011",
+   "original_name": "Cars 2",
+   "actors": "Оуэн Уилсон, Ларри-кабельщик"
+}, {
+   "russian_name": "Тачки 3",
+   "year": "2017",
+   "original_name": "Cars 3",
+   "actors": "Оуэн Уилсон, Кристела Алонзо"
+}, {
+   "russian_name": "Балто",
+   "year": "1995",
+   "original_name": "Balto",
+   "actors": "Кевин Бейкон, Боб Хоскинс"
+}, {
+   "russian_name": "Балто 2: В поисках волка",
+   "year": "2002",
+   "original_name": "Balto: Wolf Quest",
+   "actors": "Морис ЛаМарш, Джоди Бенсон"
+}, {
+   "russian_name": "Балто 3: Крылья перемен",
+   "year": "2004",
+   "original_name": "Balto III: Wings of Change",
+   "actors": "Шон Эстин"
+}, {
+   "russian_name": "Обитель зла: Вендетта",
+   "year": "2017",
+   "original_name": "Resident Evil: Vendetta",
+   "actors": "Кевин Дорман, Мэттью Мерсер"
+}, {
+   "russian_name": "Босс-молокосос",
+   "year": "2017",
+   "original_name": "The Boss Baby",
+   "actors": "Алек Болдуин, Майлз Кристофер Бакши"
+}, {
+   "russian_name": "Монстры на каникулах",
+   "year": "2012",
+   "original_name": "Hotel Transylvania",
+   "actors": "Адам Сэндлер, Энди Сэмберг, Селена Гомес"
+}, {
+   "russian_name": "Монстры на каникулах 2",
+   "year": "2015",
+   "original_name": "Hotel Transylvania 2",
+   "actors": "Адам Сэндлер, Энди Сэмберг, Селена Гомес"
+}, {
+   "russian_name": "Монстры на каникулах 3: Море зовёт",
+   "year": "2018",
+   "original_name": "Hotel Transylvania 3: Summer Vacation",
+   "actors": "Адам Сэндлер, Энди Сэмберг, Селена Гомес"
+}, {
+   "russian_name": "Супер-пупер мультфильм от Джея и Молчаливого Боба",
+   "year": "2013",
+   "original_name": "Jay and Silent Bob's Super Groovy Cartoon Movie",
+   "actors": "Джейсон Мьюз, Элиза Душку"
+}, {
+   "russian_name": "Фердинанд",
+   "year": "2017",
+   "original_name": "Ferdinand",
+   "actors": "Джон Сина, Кейт МакКиннон, Дэвид Теннант"
+}, {
+   "russian_name": "Битва за планету Терра",
+   "year": "2007",
+   "original_name": "Battle for Terra",
+   "actors": "Чед Аллен, Розанна Аркетт, Билл Бирч"
+}, {
+   "russian_name": "Человек-паук: Через вселенные",
+   "year": "2018",
+   "original_name": "Spider-Man: Into the Spider-Verse",
+   "actors": "Шамеик Мур, Джейк Джонсон, Хейли Стайнфелд"
+}, {
+   "russian_name": "Белое солнце пустыни",
+   "year": "1969",
+   "original_name": "Белое солнце пустыни",
+   "actors": "Анатолий Кузнецов"
+}, {
+   "russian_name": "S.T.A.L.K.E.R Тёмная душа. Эпизод 1",
+   "year": "2010",
+   "original_name": "S.T.A.L.K.E.R Тёмная душа. Эпизод 1",
+   "actors": "Кирилл Вдовин"
+}, {
+   "russian_name": "Поддубный",
+   "year": "2012",
+   "original_name": "Поддубный",
+   "actors": "Михаил Пореченков"
+}, {
+   "russian_name": "А зори здесь тихие",
+   "year": "2015",
+   "original_name": "А зори здесь тихие",
+   "actors": "Пётр Фёдоров"
+}, {
+   "russian_name": "Одной левой",
+   "year": "2015",
+   "original_name": "Одной левой",
+   "actors": "Дмитрий Нагиев"
+}, {
+   "russian_name": "Самый лучший день",
+   "year": "2015",
+   "original_name": "Самый лучший день",
+   "actors": "Дмитрий Нагиев"
+}, {
+   "russian_name": "Выпускной",
+   "year": "2014",
+   "original_name": "Выпускной",
+   "actors": "Виктор Грудев"
+}, {
+   "russian_name": "Газгольдер",
+   "year": "2014",
+   "original_name": "Газгольдер",
+   "actors": "Баста, Вадим Карпенко"
+}, {
+   "russian_name": "Корпоратив",
+   "year": "2014",
+   "original_name": "Корпоратив",
+   "actors": "Николай Наумов"
+}, {
+   "russian_name": "Мафия: Игра на выживание",
+   "year": "2015",
+   "original_name": "Мафия: Игра на выживание",
+   "actors": "Виктор Вержбицкий"
+}, {
+   "russian_name": "Однажды двадцать лет спустя",
+   "year": "1980",
+   "original_name": "Однажды двадцать лет спустя",
+   "actors": "Наталья Гундарева"
+}, {
+   "russian_name": "Вий",
+   "year": "1967",
+   "original_name": "Вий",
+   "actors": "Леонид Куравлёв"
+}, {
+   "russian_name": "Кавказская пленница, или Новые приключения Шурика",
+   "year": "1966",
+   "original_name": "Кавказская пленница, или Новые приключения Шурика",
+   "actors": "Александр Демьяненко"
+}, {
+   "russian_name": "Операция «Ы» и другие приключения Шурика",
+   "year": "1965",
+   "original_name": "Операция «Ы» и другие приключения Шурика",
+   "actors": "Александр Демьяненко"
+}, {
+   "russian_name": "Иван Васильевич меняет профессию",
+   "year": "1973",
+   "original_name": "Иван Васильевич меняет профессию",
+   "actors": "Александр Демьяненко"
+}, {
+   "russian_name": "Джентльмены удачи",
+   "year": "1971",
+   "original_name": "Джентльмены удачи",
+   "actors": "Евгений Леонов"
+}, {
+   "russian_name": "В бой идут одни «старики»",
+   "year": "1973",
+   "original_name": "В бой идут одни «старики»",
+   "actors": "Леонид Быков"
+}, {
+   "russian_name": "Ирония судьбы, или С легким паром!",
+   "year": "1975",
+   "original_name": "Ирония судьбы, или С легким паром!",
+   "actors": "Андрей Мягков"
+}, {
+   "russian_name": "Хардкор",
+   "year": "2015",
+   "original_name": "Хардкор",
+   "actors": "Шарлто Копли, Данила Козловский, Сергей Шнуров"
+}, {
+   "russian_name": "Сказ про то, как царь Петр арапа женил",
+   "year": "1976",
+   "original_name": "Сказ про то, как царь Петр арапа женил",
+   "actors": "Владимир Высоцкий"
+}, {
+   "russian_name": "Экипаж",
+   "year": "2016",
+   "original_name": "Экипаж",
+   "actors": "Данила Козловский, Владимир Машков"
+}, {
+   "russian_name": "Брилиантовая рука",
+   "year": "1968",
+   "original_name": "Брилиантовая рука",
+   "actors": "Юрий Никулин, Анатолий Папанов"
+}, {
+   "russian_name": "Невероятные приключения итальянцев в России",
+   "year": "1973",
+   "original_name": "Невероятные приключения итальянцев в России",
+   "actors": "Андрей Миронов"
+}, {
+   "russian_name": "Приключения Электроника",
+   "year": "1979",
+   "original_name": "Приключения Электроника",
+   "actors": "Юрий Торсуев, Владимир Торсуев"
+}, {
+   "russian_name": "Берегись автомобиля",
+   "year": "1966",
+   "original_name": "Берегись автомобиля",
+   "actors": "Иннокентий Смоктуновский, Андрей Миронов, Анатолий Папанов"
+}, {
+   "russian_name": "Жмурки",
+   "year": "2005",
+   "original_name": "Жмурки",
+   "actors": "Алексей Панин, Дмитрий Дюжев"
+}, {
+   "russian_name": "Брат",
+   "year": "1997",
+   "original_name": "Брат",
+   "actors": "Сергей Бодров мл."
+}, {
+   "russian_name": "Остров везения",
+   "year": "2013",
+   "original_name": "Остров везения",
+   "actors": "Роман Юнусов"
+}, {
+   "russian_name": "Дуэлянт",
+   "year": "2016",
+   "original_name": "Дуэлянт",
+   "actors": "Пётр Фёдоров, Владимир Машков, Юлия Хлынина"
+}, {
+   "russian_name": "Притяжение",
+   "year": "2017",
+   "original_name": "Притяжение",
+   "actors": "Ирина Старшенбаум, Александр Петров, Риналь Мухаметов"
+}, {
+   "russian_name": "Левиафан",
+   "year": "2014",
+   "original_name": "Левиафан",
+   "actors": "Алексей Серебряков"
+}, {
+   "russian_name": "Метро",
+   "year": "2012",
+   "original_name": "Метро",
+   "actors": "Сергей Пускепалис, Анатолий Белый, Светлана Ходченкова"
+}, {
+   "russian_name": "28 панфиловцев",
+   "year": "2016",
+   "original_name": "28 панфиловцев",
+   "actors": "Александр Устюгов, Яков Кучеревский, Азамат Нигманов"
+}, {
+   "russian_name": "Вурдалаки",
+   "year": "2016",
+   "original_name": "Вурдалаки",
+   "actors": "Михаил Пореченков, Константин Крюков, Аглая Шиловская"
+}, {
+   "russian_name": "Защитники",
+   "year": "2017",
+   "original_name": "Защитники",
+   "actors": "Антон Пампушный, Санжар Мади, Себастьян Сисак"
+}, {
+   "russian_name": "Гоголь. Начало",
+   "year": "2017",
+   "original_name": "Гоголь. Начало",
+   "actors": "Александр Петров, Олег Меньшиков"
+}, {
+   "russian_name": "Время первых",
+   "year": "2017",
+   "original_name": "Время первых",
+   "actors": "Евгений Миронов, Константин Хабенский"
+}, {
+   "russian_name": "Викинг",
+   "year": "2016",
+   "original_name": "Викинг",
+   "actors": "Данила Козловский, Светлана Ходченкова, Александра Бортич"
+}, {
+   "russian_name": "Землетрясение",
+   "year": "2016",
+   "original_name": "Землетрясение",
+   "actors": "Константин Лавроненко, Мария Миронова"
+}, {
+   "russian_name": "Девчата",
+   "year": "1961",
+   "original_name": "Девчата",
+   "actors": "Надежда Румянцева, Николай Рыбников"
+}, {
+   "russian_name": "Ледокол",
+   "year": "2016",
+   "original_name": "Ледокол",
+   "actors": "Пётр Фёдоров, Сергей Пускепалис"
+}, {
+   "russian_name": "Последний богатырь",
+   "year": "2017",
+   "original_name": "Последний богатырь",
+   "actors": "Виктор Хориняк, Мила Сивацкая"
+}, {
+   "russian_name": "Место встречи изменить нельзя",
+   "year": "1979",
+   "original_name": "Место встречи изменить нельзя",
+   "actors": "Владимир Высоцкий, Владимир Конкин"
+}, {
+   "russian_name": "12 стульев",
+   "year": "1971",
+   "original_name": "12 стульев",
+   "actors": "Арчил Гомиашвили, Сергей Филиппов, Юрий Никулин, Георгий Вицин"
+}, {
+   "russian_name": "Золотой теленок",
+   "year": "1968",
+   "original_name": "Золотой теленок",
+   "actors": "Сергей Юрский, Леонид Куравлёв"
+}, {
+   "russian_name": "Кин-дза-дза!",
+   "year": "1986",
+   "original_name": "Кин-дза-дза!",
+   "actors": "Станислав Любшин, Евгений Леонов"
+}, {
+   "russian_name": "Самогонщики",
+   "year": "1962",
+   "original_name": "Самогонщики",
+   "actors": "Евгений Моргунов, Георгий Вицин, Юрий Никулин"
+}, {
+   "russian_name": "Салют-7",
+   "year": "2017",
+   "original_name": "Салют-7",
+   "actors": "Владимир Вдовиченков, Павел Деревянко"
+}, {
+   "russian_name": "Обыкновенное чудо",
+   "year": "1978",
+   "original_name": "Обыкновенное чудо",
+   "actors": "Олег Янковский, Ирина Купченко, Евгений Леонов"
+}, {
+   "russian_name": "Собачье сердце",
+   "year": "1988",
+   "original_name": "Собачье сердце",
+   "actors": "Владимир Толоконников, Евгений Евстигнеев, Борис Плотников"
+}, {
+   "russian_name": "Брат 2",
+   "year": "2000",
+   "original_name": "Брат 2",
+   "actors": "Сергей Бодров мл., Виктор Сухоруков, Сергей Маковецкий"
+}, {
+   "russian_name": "Черновик",
+   "year": "2018",
+   "original_name": "Черновик",
+   "actors": "Никита Волков, Евгений Ткачук"
+}, {
+   "russian_name": "Полицейский с Рублёвки. Новогодний беспредел",
+   "year": "2018",
+   "original_name": "Полицейский с Рублёвки. Новогодний беспредел",
+   "actors": "Александр Петров, Сергей Бурунов, Александра Бортич"
+}, {
+   "russian_name": "Пришелец",
+   "year": "2018",
+   "original_name": "Пришелец",
+   "actors": "Андрей Смоляков, Юрий Цурило"
+}, {
+   "russian_name": "Решение о ликвидации",
+   "year": "2018",
+   "original_name": "Решение о ликвидации",
+   "actors": "Игорь Петренко, Иван Шахназаров, Алексей Вертков"
+}, {
+   "russian_name": "Т-34",
+   "year": "2018",
+   "original_name": "Т-34",
+   "actors": "Александр Петров, Виктор Добронравов, Ирина Старшенбаум"
+}, {
+   "russian_name": "Солярис",
+   "year": "1971",
+   "original_name": "Солярис",
+   "actors": "Наталья Бондарчук, Донатас Банионис"
+}
+]

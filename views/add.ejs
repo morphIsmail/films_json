@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фильмы</title>
+    <link rel="stylesheet" href="/public/css/style.css">
+</head>
+<body>
+    <%- include('blocks/menu.ejs') %>
+    <h1>Добавить фильм:</h1>
+    <form method="post" action="/add">
+        <input name="russian_name" type="text" placeholder="Название на русском"><br>
+        <input name="year" type="text" placeholder="Год"><br>
+        <input name="original_name" type="text" placeholder="Оригинальное название"><br>
+        <textarea name="actors" cols="30" rows="5" placeholder="Актёр1, Актёр2, Актёр3 ..."></textarea><br>
+        <button type="submit">Добавить</button>
+    </form>
+</body>
+</html>

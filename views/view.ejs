@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фильмы</title>
+    <link rel="stylesheet" href="/public/css/style.css">
+</head>
+<body>
+    <%- include('blocks/menu.ejs') %>
+    <h1>Список фильмов:</h1>
+    <table>
+        <tr>
+            <td>№</td>
+            <td>Название на русском</td>
+            <td>Год</td>
+            <td>Оригинальное название</td>
+            <td>Актёры</td>
+        </tr>
+        <% for(let i=0; i<data.length; i++) { %>
+        <tr>
+            <td><%= (i+1) %></td>
+            <td><%= data[i]['russian_name'] %></td>
+            <td><%= data[i]['year'] %></td>
+            <td><%= data[i]['original_name'] %></td>
+            <td><%= data[i]['actors'] %></td>
+        </tr>
+        <% } %>
+    </table>
+</body>
+</html>
